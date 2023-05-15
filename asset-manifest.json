@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/andisiwe-resume/static/css/main.4d577064.css",
+    "main.js": "/andisiwe-resume/static/js/main.e3c29a2d.js",
+    "index.html": "/andisiwe-resume/index.html",
+    "main.4d577064.css.map": "/andisiwe-resume/static/css/main.4d577064.css.map",
+    "main.e3c29a2d.js.map": "/andisiwe-resume/static/js/main.e3c29a2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d577064.css",
+    "static/js/main.e3c29a2d.js"
+  ]
+}
