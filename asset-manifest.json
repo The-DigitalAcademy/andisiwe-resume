@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/andisiwe-resume/static/css/main.4d19c8fc.css",
-    "main.js": "/andisiwe-resume/static/js/main.e3c29a2d.js",
+    "main.css": "/andisiwe-resume/static/css/main.58ac66a7.css",
+    "main.js": "/andisiwe-resume/static/js/main.a12b75c9.js",
     "index.html": "/andisiwe-resume/index.html",
-    "main.4d19c8fc.css.map": "/andisiwe-resume/static/css/main.4d19c8fc.css.map",
-    "main.e3c29a2d.js.map": "/andisiwe-resume/static/js/main.e3c29a2d.js.map"
+    "main.58ac66a7.css.map": "/andisiwe-resume/static/css/main.58ac66a7.css.map",
+    "main.a12b75c9.js.map": "/andisiwe-resume/static/js/main.a12b75c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d19c8fc.css",
-    "static/js/main.e3c29a2d.js"
+    "static/css/main.58ac66a7.css",
+    "static/js/main.a12b75c9.js"
   ]
 }
