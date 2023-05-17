@@ -4,7 +4,7 @@ import { Helmet, HelmetProvider } from "react-helmet-async";
 import { Container, Row, Col } from "react-bootstrap";
 import { dataexperience, meta } from "../../content_option";
 
-export const Experience = () => {
+const Experience = () => {
   return (
     <HelmetProvider>
       <Container className="About-header">
@@ -22,11 +22,10 @@ export const Experience = () => {
         <div className="mb-5 po_items_ho">
           {dataexperience.map((data, i) => {
             return (
-              <div key={i} className="po_item">
-                <img src={data.img} alt="" />
+              <div key={i} className="ex_item">
                 <div className="content">
                   <p>{data.description}</p>
-                  <a href={data.link}>view project</a>
+                
                 </div>
               </div>
             );
@@ -36,3 +35,5 @@ export const Experience = () => {
     </HelmetProvider>
   );
 };
+
+export default Experience
