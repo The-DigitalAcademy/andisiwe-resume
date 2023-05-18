@@ -50,9 +50,11 @@ const skills = [{
 
 const dataexperience = [{
         title: "eDeaf Empower and Employ",
-        description: "Assisting slow learners with gaining more insight and kownlege Adult Eduction Training- Level 1",
+        description: "Learnship eDeaf Empower and Employs 11/2015 - 10/2016, braamfontein, Gauteng NQF Level 3, End User Computing Learnship eDeaf Empower and Employs 11/2016 - 10/2017, braamfontein, Gauteng NQF Level 4, Techincal Support Learnship Digital academy 06/2021 - 05/2022, Auckland Park, Gauteng NQF Level 5, software development Learnship Digital academy 06/2022 - 05/2023, Auckland Park, Gauteng NQF Level 6, software development",
+        
         
     },
+    
   
   
     
