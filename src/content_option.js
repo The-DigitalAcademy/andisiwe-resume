@@ -50,7 +50,7 @@ const skills = [{
 
 const dataexperience = [{
         title: "eDeaf Empower and Employ",
-        description: "Learnship eDeaf Empower and Employs 11/2015 - 10/2016, braamfontein, Gauteng NQF Level 3, End User Computing Learnship eDeaf Empower and Employs 11/2016 - 10/2017, braamfontein, Gauteng NQF Level 4, Techincal Support Learnship Digital academy 06/2021 - 05/2022, Auckland Park, Gauteng NQF Level 5, software development Learnship Digital academy 06/2022 - 05/2023, Auckland Park, Gauteng NQF Level 6, software development",
+        description: "Learnership eDeaf Empower and Employs 11/2015 - 10/2016, Braamfontein, Gauteng NQF Level 3, End User Computing Learnership eDeaf Empower and Employs 11/2016 - 10/2017, Braamfontein, Gauteng NQF Level 4, Techincal Support Learnership Digital academy 06/2021 - 05/2022, Auckland Park, Gauteng NQF Level 5, software development Learnership Digital academy 06/2022 - 05/2023, Auckland Park, Gauteng NQF Level 6, software development",
         
         
     },
